@@ -80,12 +80,10 @@ Create `/var/www/html/.env` from `.env.example` and fill values:
 > Do **not** commit `.env` to GitHub.
 
 ## What to screenshot for GitHub?
-Yes—add screenshots. Suggested:
-- App homepage (`/`) showing items + **Server: <hostname>**
-- Admin page (`/admin.php`) after a successful add
-- Azure Load Balancer backend health showing **Healthy**
-- VMSS instances list showing **Running**
-- (Optional) Blob container showing uploaded images
+## Screenshots
+![Homepage](Screenshots/homepage.png)
+![VMSS Instances](Screenshots/vmss-instances.png)
+![Admin Page](Screenshots/admin.png)
 
 Put them in `screenshots/` and reference them in README.
 
