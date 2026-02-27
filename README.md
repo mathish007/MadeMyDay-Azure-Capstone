@@ -93,6 +93,9 @@ Create `/var/www/html/.env` from `.env.example` and fill values:
 ### ⚙️ VM Scale Set Instances
 ![VMSS Instances](Screenshots/VMSS-Instances.png)
 
+### 🌐 Application Live via Public IP
+![Public IP Live](Screenshots/PublicIP-App-Live.png)
+
 ---
 
 ## License
