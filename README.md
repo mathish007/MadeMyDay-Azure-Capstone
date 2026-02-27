@@ -1,4 +1,4 @@
-# MadeMyDay – Azure VMSS + Load Balancer Capstone (Mini Blinkit Inspired)
+# MadeMyDay – Azure VMSS + Load Balancer Capstone 
 
 A 2-tier web application deployed on Azure with a **highly available web tier** using **VM Scale Sets (VMSS)** behind a **Standard Load Balancer**, plus a **private MySQL DB VM**. Images can be served either from a local folder (Phase II) or from **Azure Blob Storage** (Phase III) so the web tier becomes **stateless** and safe to scale (Phase IV).
 
