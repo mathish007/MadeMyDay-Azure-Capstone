@@ -81,11 +81,23 @@ Create `/var/www/html/.env` from `.env.example` and fill values:
 
 ## What to screenshot for GitHub?
 ## Screenshots
-![Homepage](Screenshots/homepage.png)
-![VMSS Instances](Screenshots/vmss-instances.png)
-![Admin Page](Screenshots/admin.png)
+---
 
-Put them in `screenshots/` and reference them in README.
+## 📸 Screenshots
+
+### 🏠 Homepage (Load Balanced Web Tier)
+![Homepage](Screenshots/MadeMyDay-NowShowing.png)
+
+### 🎬 Coming Soon Section
+![Coming Soon](Screenshots/MadeMyDay-ComingSoon.png)
+
+### 🛠 Admin Panel
+![Admin Page](Screenshots/MadeMyDay-AdminPage.png)
+
+### ⚙️ VM Scale Set Instances
+![VMSS Instances](Screenshots/VMSS-Instances.png)
+
+---
 
 ## License
 MIT (optional). Add one if you want public reuse.
