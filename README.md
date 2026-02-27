@@ -79,10 +79,6 @@ Create `/var/www/html/.env` from `.env.example` and fill values:
 
 > Do **not** commit `.env` to GitHub.
 
-## What to screenshot for GitHub?
-## Screenshots
----
-
 ## 📸 Screenshots
 
 ### 🏠 Homepage (Load Balanced Web Tier)
