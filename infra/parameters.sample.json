@@ -1,0 +1,14 @@
+{
+  "resourceGroup": "rg-mademyday",
+  "location": "eastus",
+  "vnetName": "vnet-mademyday",
+  "webSubnet": "web-subnet",
+  "dbSubnet": "db-subnet",
+  "nsgWeb": "nsg-web-mademyday",
+  "nsgDb": "nsg-db-mademyday",
+  "dbVmName": "vm-db-01",
+  "webVmName": "vm-web-golden",
+  "vmssName": "vmss-mademyday",
+  "lbName": "lb-mademyday",
+  "publicIpName": "pip-mademyday"
+}

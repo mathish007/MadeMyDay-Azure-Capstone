@@ -1,0 +1,14 @@
+# Secrets
+app/.env
+*.pem
+*.key
+
+# PHP vendor deps (install on VM, not in repo)
+app/vendor/
+app/composer.lock
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
